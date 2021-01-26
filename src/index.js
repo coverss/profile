@@ -5,7 +5,7 @@ import './index.css';
 function MyInfo() {
     return (
         <div>
-            <h1>Hello, it's Tim :)</h1>
+            <h1>Hello, it's Tim :) and it's My Portfolio Website</h1>
             <p>Yes that was Hello</p>
         </div>
     )
